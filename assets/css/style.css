@@ -6538,7 +6538,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   border-bottom: 0;
 }
 .footer_black .footer_middel_menu {
-  border-bottom: 1px solid #2d2d2d;
+  border-bottom: 1px solid #2d2d2d00;
   border-top: 1px solid #2d2d2d;
 }
 .footer_black .footer_middel_menu ul li a {
