@@ -1821,6 +1821,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   margin-left: 0;
 }
 .social_icone ul li a {
+  /* background: #ebebeb; */
   background: #ebebeb;
   color: #aaaaaa;
   display: block;
@@ -2532,7 +2533,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .header_black .social_icone ul li a {
-  background: #2f2f2f;
+  background: #2f2f2f00;
+  /* background: #2f2f2f; */
   color: #ccc;
 }
 .header_black .social_icone ul li a:hover {
